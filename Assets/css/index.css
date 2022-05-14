@@ -54,3 +54,14 @@ ul{
     background-color: ghostwhite;
     margin-top: 30px;
 }
+
+#button{
+    background-color: green;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: 15px solid green;
+    font-size: 20px;
+}
+#button.hover{
+    color: palevioletred;
+}
