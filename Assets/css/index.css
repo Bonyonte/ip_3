@@ -2,7 +2,11 @@ h1{
     padding-left: 300px;
 }
 .quiz{
-    margin-top: 50px;
+    margin-top: 0px;
     padding-left: 330px;
     font-size: 20px;
+}
+h2{
+    padding-left: 300px;
+    margin-top:  45px;
 }
