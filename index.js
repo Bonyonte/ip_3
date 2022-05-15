@@ -10,6 +10,7 @@ function check(){
     var a8=document.quiz.answer8.value;
     var a9=document.quiz.answer9.value;
     var a10=document.quiz.answer10.value;
+    var result=document.getElementById('result');
     if (a1=="White") {c++}
     if (a2=="Art set up") {c++}
     if (a3=="To point out the flaws in the design") {c++}
@@ -21,4 +22,9 @@ function check(){
     if (a9=="Illustrator") {c++}
     if (a10=="Violet") {c++}
     document.write (c);
+    if (c=8){
+    result.textContent='Your result is $(B). Good trial.'
+    } else{
+        result.textContent='Your result is $(A). Excellent.'
+    }
 }

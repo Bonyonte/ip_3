@@ -4,9 +4,8 @@
 h1{
     padding-left: 300px;
 }
-.quiz{
+p{
     margin-top: 0px;
-    padding-left: 330px;
     font-size: 20px;
 }
 h2{
@@ -19,57 +18,68 @@ ul{
     justify-content: space-evenly;
     list-style-type: none;
 }
-ul li label{
+
+ul li{
     cursor: pointer;
 }
 #list1{
     background-color: ghostwhite;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list2{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list3{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list4{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list5{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list6{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list7{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list8{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list9{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 #list10{
     background-color: ghostwhite;
     margin-top: 30px;
     margin-right:300px;
+    margin-left: 330px;
 }
 
 #button{
