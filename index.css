@@ -1,3 +1,6 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 h1{
     padding-left: 300px;
 }
@@ -14,45 +17,59 @@ ul{
     padding-top: 20px;
     padding-bottom: 20px;
     justify-content: space-evenly;
+    list-style-type: none;
+}
+ul li label{
+    cursor: pointer;
 }
 #list1{
     background-color: ghostwhite;
+    margin-right:300px;
 }
 #list2{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list3{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list4{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list5{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list6{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list7{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list8{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list9{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 #list10{
     background-color: ghostwhite;
     margin-top: 30px;
+    margin-right:300px;
 }
 
 #button{
@@ -62,6 +79,11 @@ ul{
     border: 15px solid green;
     font-size: 20px;
 }
-#button.hover{
+#button:hover{
     color: palevioletred;
+}
+
+header{
+    background-position: fixed;
+    background-color:azure;
 }
